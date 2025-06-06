@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Delight",
+    "amt": "199",
+    "shope": "Pizza Hunt",
+    "pic": "/images/pizza.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 2,
+    "name": "Burger",
+    "amt": "249",
+    "shope": "Oven Story",
+    "pic": "/images/burger.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 3,
+    "name": "ceylon-egg-parotta",
+    "amt": "299",
+    "shope": "Domino's",
+    "pic": "/images/ceylon-egg-parotta.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Biryani",
+    "amt": "279",
+    "shope": "Pizza Hunt",
+    "pic": "/images/Chicken-Biryani.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 5,
+    "name": "Curd rice",
+    "amt": "229",
+    "shope": "Pizza Corner",
+    "pic": "/images/curd.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 6,
+    "name": "Fried rice",
+    "amt": "269",
+    "shope": "Oven Story",
+    "pic": "/images/fried_rice.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 7,
+    "name": "Grilled chiken",
+    "amt": "259",
+    "shope": "Domino's",
+    "pic": "/images/grilled_chicken.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 8,
+    "name": "Idili",
+    "amt": "209",
+    "shope": "Pizza Hunt",
+    "pic": "/images/idili.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 9,
+    "name": "Masala Dosa",
+    "amt": "289",
+    "shope": "Pizza Corner",
+    "pic": "/images/Masala-Dosa.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 10,
+    "name": "Pongal",
+    "amt": "319",
+    "shope": "Domino's",
+    "pic": "/images/pongal.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 11,
+    "name": "Sambar",
+    "amt": "239",
+    "shope": "Pizza Hunt",
+    "pic": "/images/sambar.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 12,
+    "name": "Tandoori Feast",
+    "amt": "299",
+    "shope": "Oven Story",
+    "pic": "/images/Tandoori-Chicken-Recipe.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 13,
+    "name": "Tomato rice",
+    "amt": "219",
+    "shope": "Pizza Corner",
+    "pic": "/images/tomato_rice.webp",
+    "latest": "No"
+  },
+  {
+    "id": 14,
+    "name": "Mushroom Magic",
+    "amt": "279",
+    "shope": "Pizza Hunt",
+    "pic": "/images/pizza.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 15,
+    "name": "Golden Corn Burst",
+    "amt": "249",
+    "shope": "Domino's",
+    "pic": "/images/pizza.jpg",
+    "latest": "No"
+  }
+]
